@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# a simple variable example
 myvariable=Hello
 
 anothervar=Sage
